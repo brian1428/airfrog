@@ -1,3 +1,4 @@
+
 // Copyright (c) 2019 ml5
 //
 // This software is released under the MIT License.
@@ -16,7 +17,7 @@ let classifier;
 let label = "listening";
 
 // Teachable Machine model URL:
-let soundModelURL = 'https://teachablemachine.withgoogle.com/models/h3p9R41J/model.json';
+let soundModelURL = 'https://brian1428.github.io/airfrog/model.json';
 
 
 function preload() {
